@@ -15,8 +15,7 @@
 
 ## Project: E-COMMERCE WEBSITE
 
-
-
+![image](https://github.com/user-attachments/assets/8ed9bad6-9b32-43fa-b8bc-9b6ff291ee41)
 
 ## OBJECTIVES
 
